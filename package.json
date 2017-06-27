@@ -5,6 +5,6 @@
   "main": "assemble.js",
   "author": "Ken Lau",
   "dependencies": {
-    "gm": "*"
+    "jimp": "*"
   }
 }
