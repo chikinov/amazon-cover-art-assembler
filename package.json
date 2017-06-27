@@ -1,0 +1,10 @@
+{
+  "name": "amazon-cover-art-assembler",
+  "version": "1.0.0",
+  "description": "Assemble Amazon zoomed cover art image tiles",
+  "main": "assemble.js",
+  "author": "Ken Lau",
+  "dependencies": {
+    "gm": "*"
+  }
+}
